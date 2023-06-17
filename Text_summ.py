@@ -1,4 +1,5 @@
-python3 -m pip install openai
+python3.10 -m pip install openai
+#python3 -m pip install openai
 
 #python -m pip install openai
 #pip3.10 install openai
