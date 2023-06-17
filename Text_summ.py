@@ -1,4 +1,5 @@
-pip install openai --user
+pip3.10 install openai
+#pip install openai --user
 #pip3 uninstall openai
 #pip3 install --upgrade pip
 #pip3 install openai
