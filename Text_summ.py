@@ -1,7 +1,4 @@
-pip install openai
 
-
-import openai
 import streamlit as st
 
 st.header("summrize app")
