@@ -1,4 +1,5 @@
-conda install -c conda-forge openai
+sudo update-alternatives --config python
+#conda install -c conda-forge openai
 #python3.10 -m pip install openai
 #python3 -m pip install openai
 
