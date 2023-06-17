@@ -1,6 +1,6 @@
-pip uninstall openai
-pip install --upgrade pip
-pip install openai
+pip3 uninstall openai
+pip3 install --upgrade pip
+pip3 install openai
 
 import openai
 import streamlit as st
